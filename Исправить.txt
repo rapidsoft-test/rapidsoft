@@ -1,0 +1,2 @@
+переименовать проект "RapidSoft.RzdTransfer.ServerApps.BusinessServices" в "RapidSoft.RzdTransfer.ServerApps.BusLineServices"
+переименовать проект "RapidSoft.RzdTransfer.ServerApps.CatalogModule.DataModel" в "RapidSoft.RzdTransfer.ServerApps.ModuleCatalog.DataModel"
